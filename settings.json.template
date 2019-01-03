@@ -33,7 +33,7 @@
 
   // database settings (MongoDB)
   "dbsettings": {
-    "user": "iquidus",
+    "user": "tgtsystem",
     "password": "3xp!0reR",
     "database": "explorerdb",
     "address": "localhost",
