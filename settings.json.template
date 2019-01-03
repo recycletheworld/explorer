@@ -33,9 +33,9 @@
 
   // database settings (MongoDB)
   "dbsettings": {
-    "user": "tgtsystem",
-    "password": "3xp!0reR",
-    "database": "explorerdb",
+    "user": "rtwdataexplorer",
+    "password": "rtwE3xp!0reR",
+    "database": "explorerDataE",
     "address": "localhost",
     "port": 27017
   },
