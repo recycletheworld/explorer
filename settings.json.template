@@ -48,8 +48,8 @@
   "wallet": {
     "host": "localhost",
     "port": 40102,
-    "user": "RTW_seed",
-    "pass": "44aLB2AXRPTgTwynXTrMgJJRErysrYiqxd28TwC92a3199020b13817d55f73da7"
+    "user": "RTW_seed0",
+    "pass": "0Yiqxd28TwC92a3199020b13817d55f73da7"
   },
 
   // confirmations
@@ -122,8 +122,8 @@
   "youtube": "youryoutubechannel",
 
   //genesis
-  "genesis_tx": "906a42e00da09beb034fa6d530091e506705bd87a630bdeac334f98e2db87b36",
-  "genesis_block": "745b6167635c8e93b30af5c0be524fec7f97936346151859f73a1a952d7e1f30",
+  "genesis_tx": "745b6167635c8e93b30af5c0be524fec7f97936346151859f73a1a952d7e1f30",
+  "genesis_block": "906a42e00da09beb034fa6d530091e506705bd87a630bdeac334f98e2db87b36",
 
   //heavy (enable/disable additional heavy features)
   "heavy": false,
